@@ -1,6 +1,10 @@
-# Aqib Amran – Portfolio
+# Hi there 👋 I'm Aqib
 
-Welcome to my personal portfolio website. This site showcases selected projects, technical skills, and my background in computing science, with a focus on AI, data-driven systems, and real-world software applications.
+![fun coding gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+I'm a Computing Science graduate who enjoys building creative, real-world tech from AI and game development to data-driven tools. My portfolio highlights a mix of academic, personal, and collaborative projects.
+
+---
 
 ## 🔗 Links
 
