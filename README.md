@@ -2,7 +2,7 @@
 
 I'm a Computing Science graduate who enjoys building creative, real-world tech from AI and game development to data-driven tools. My portfolio highlights a mix of academic, personal, and collaborative projects.
 
----
+
 
 ## 🔗 Links
 
@@ -20,6 +20,6 @@ I'm a Computing Science graduate who enjoys building creative, real-world tech f
 
 If you’d like to collaborate, chat, or hire — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aqibamran/) or visit [my website](http://aqibamran.info/).
 
----
+
 
 Thanks for visiting!
