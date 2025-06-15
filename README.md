@@ -18,7 +18,7 @@ I'm a Computing Science graduate who enjoys building creative, real-world tech f
 
 ## 📬 Contact
 
-If you’d like to collaborate, chat, or hire — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aqibamran/) or visit [my website](https://yourwebsite.com).
+If you’d like to collaborate, chat, or hire — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aqibamran/) or visit [my website](http://aqibamran.info/).
 
 ---
 
