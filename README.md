@@ -6,9 +6,9 @@ I'm a Computing Science graduate who enjoys building creative, real-world tech f
 
 ## 🔗 Links
 
-- 🌐 [Visit My Website](https://yourwebsite.com)
+- 🌐 [Visit My Website](http://aqibamran.info/)
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/aqibamran/)
-- 🧠 [Explore My Projects](#projects)
+- 🧠 [Explore My Projects](https://github.com/aqibamran)
 
 ## 🚀 Technologies Used
 
